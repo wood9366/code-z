@@ -3,7 +3,10 @@
 /Temp
 /obj
 /UserSettings
+/_pc
 
 *.csproj
 *.sln
 .vsconfig
+
+.vs
