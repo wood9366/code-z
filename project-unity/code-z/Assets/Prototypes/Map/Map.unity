@@ -515,7 +515,7 @@ MonoBehaviour:
   m_RefResolutionX: 640
   m_RefResolutionY: 360
   m_CropFrame: 0
-  m_GridSnapping: 1
+  m_GridSnapping: 0
   m_FilterMode: 0
   m_UpscaleRT: 0
   m_PixelSnapping: 0
@@ -535,6 +535,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _target: {fileID: 988147434}
+  _move_speed: 5
+  _target_offset: {x: 0, y: 0, z: -5}
 --- !u!1001 &2029139707
 PrefabInstance:
   m_ObjectHideFlags: 0
